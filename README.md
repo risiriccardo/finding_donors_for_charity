@@ -25,7 +25,7 @@ The `Report.html` file contains a snapshot of the main code in the jupyter noteb
 
 ### Run
 
-In the terminal, navigate to the top-level project directory `finding_donors_for_charity/` and run one of the following commands:
+In the terminal, navigate to the top-level project directory `finding_donors_for_charity/` and run:
 
 ```bash
 jupyter notebook finding_donors.ipynb
