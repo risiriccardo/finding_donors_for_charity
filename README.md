@@ -6,7 +6,7 @@ This project was developed in the context of Udacity's Intro to Machine Learning
 
 The goal of this project is to developed a ML model (using supervised learning techniques) which is capable of predicting whether a person is likely to be a donor or not. This could help charity organizations in optmizing their marketing efforts, targeting only those who are more likely to donate. The target variable of this model is the person's income (<=50K or >50K). The key assumption being that those with a lower income are going to be less prone to donating.
 
-As a first step, an analysis is conducted to determine which factors are the key-indicators of a person being more likely to earn a >50K salary. Then, three different supervised learning algorithms (GaussianNB, SVC, Adaboost) are trained and evaluated, so that the best one can be used by the charity organization.
+As a first step, an analysis is conducted to determine which factors are the key-indicators of a person being more likely to earn a >50K salary. Then, three different supervised learning algorithms (Random Forest, Support Vector Machines, and Adaboost) are trained and evaluated, so that the best one can be used by the charity organization.
 
 ### Install
 
