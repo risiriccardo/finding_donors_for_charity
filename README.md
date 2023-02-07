@@ -16,6 +16,8 @@ This project requires **Python >=2.7** and the following Python libraries instal
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [IPython](https://ipython.org/install.html)
+- [Jupyter Notebook](https://jupyter.org/install)
 
 ### Code
 
