@@ -10,7 +10,7 @@ As a first step, an analysis is conducted to determine which factors are the key
 
 ### Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python >=2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
